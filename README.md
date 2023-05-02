@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Michael Onoja - [Github](https://github.com/onoja5) / [Twitter](https://twitter.com/onoja55)  
+Nekekpemi Donatus - [Github](https://github.com/Nekekpemi-Donatus) 
 
 ## License
 Public Domain. No copy write protection. 
